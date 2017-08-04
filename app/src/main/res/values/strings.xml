@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MDCharacterTracker</string>
+    <string name="heroes_button_label">Heroes</string>
 </resources>

@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- Level Backgrounds -->
+    <color name="level1Background">#CBC6DB</color>
+    <color name="level2Background">#AC95BD</color>
+    <color name="level3Background">#694C78</color>
+    <color name="level4Background">#412554</color>
+    <color name="level5Background">#000000</color>
 </resources>

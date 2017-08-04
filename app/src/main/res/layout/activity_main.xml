@@ -6,4 +6,10 @@
     android:layout_height="match_parent"
     tools:context="com.example.android.mdcharactertracker.MainActivity">
 
+    <Button
+        android:id="@+id/heroes_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="loadHeroes"
+        android:text="@string/heroes_button_label"/>
 </android.support.constraint.ConstraintLayout>
